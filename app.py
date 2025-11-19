@@ -29,14 +29,7 @@ st.markdown(
         margin-bottom: 12px;
     }
 
-    .input-card {
-        width: 760px;
-        max-width: 95%;
-        margin: 10px auto 6px auto;
-        background: rgba(255,255,255,0.9);
-        border-radius: 12px;
-        box-shadow: 0 10px 30px rgba(4,32,63,0.08);
-    }
+    
 
     .input-card .stMarkdown p, .input-card .stTextInput, .input-card .stSelectbox {
         margin-bottom: 6px !important;
