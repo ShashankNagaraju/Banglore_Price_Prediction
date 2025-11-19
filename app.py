@@ -1,4 +1,5 @@
 import streamlit as st
+st.set_page_config(layout="wide")
 from pathlib import Path
 import pickle
 import json
