@@ -4,7 +4,7 @@ A machine learning project that predicts residential property prices in Bengalur
 
 ## Overview
 
-This project walks through a complete data science workflow — from raw data to a deployable prediction model - using the Bengaluru House Price dataset.
+This project walks through a complete data science workflow - from raw data to a deployable prediction model - using the Bengaluru House Price dataset.
 
 ## Tech Stack
 
